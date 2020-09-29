@@ -4,6 +4,8 @@ Welcom to My Course List
 2. Angular
 3. Web API
 4. LINQ 
+5. ADO.Net
+6. WCF
 
 
 Learn with fun.
